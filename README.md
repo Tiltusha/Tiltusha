@@ -2,7 +2,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiltusha&theme=cobalt&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiltusha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=verticall&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-<br>Репозиторий, с названием --JS-Project--, содержит микропроекты, посвященные изучению JS
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
